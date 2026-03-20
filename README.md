@@ -1,2 +1,3 @@
-# flex-security-scanner-mn4t
-Automated issue comment bot repository
+# Flex Security Scanner Mn4T
+
+Automated issue comment bot repository.
